@@ -538,7 +538,7 @@ endif
 
 exe "hi! Normal"         .s:fmt_none   .s:fg_base0  .s:bg_back
 
-hi! Comment ctermfg=22 guifg=#005f00
+hi! Comment ctermfg=28 guifg=#005f00
 "       *Comment         any comment
 
 exe "hi! Constant"       .s:fmt_none   .s:fg_cyan   .s:bg_none
